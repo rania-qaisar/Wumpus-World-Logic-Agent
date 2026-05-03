@@ -29,4 +29,4 @@ A web-based Knowledge-Based Agent that navigates a Wumpus World-style grid using
 | View KB | Click **▸ Show KB Clauses** |
 
 ## Author
-**Rania**
+**Rania Qaisar**
