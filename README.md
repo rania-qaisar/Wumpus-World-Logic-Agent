@@ -10,7 +10,7 @@ A web-based Knowledge-Based Agent that navigates a Wumpus World-style grid using
 - Breeze / Stench / Glitter percept system
 - Step-by-step or auto-run exploration
 - Real-time metrics dashboard and live KB clause viewer
-- Color-coded grid visualization
+- Color-coded grid visualization 
 
 ## How It Works
 1. **TELL** — Agent updates the KB with percept-based biconditional rules converted to CNF
